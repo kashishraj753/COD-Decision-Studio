@@ -1,0 +1,13 @@
+{
+  "ship_below": 0.29,
+  "nudge_from": 0.34,
+  "hold_from": 0.55,
+  "prepaid_discount": 20,
+  "confirmation_hours": 24,
+  "reminder_hours": 20,
+  "assumed_confirmation_success": 0.7,
+  "assumed_prepaid_conversion": 0.3,
+  "assumed_rto_after_confirmation": 0.15,
+  "assumed_rto_after_prepaid": 0.04,
+  "cold_start_risk": 0.28
+}
